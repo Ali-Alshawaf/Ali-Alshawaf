@@ -4,6 +4,9 @@
   
 
 ### <div align="center">I'm Ali Alshawaf, a full-time Software developer freelance developer 👨‍💻</div>  
+
+
+- 🎓 BSc in Computer Science
   
 
 - 🔭 I’m currently working on Web development  
