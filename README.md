@@ -77,8 +77,9 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-alshawaf" alt="ali-alshawaf" /></a> </p>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ali-Alshawaf&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-alshawaf&show_icons=true&locale=en&layout=compact" alt="ali-alshawaf" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali-alshawaf&" alt="ali-alshawaf" /></p>
 <br/>  
 
 
