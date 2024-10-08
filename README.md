@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif?format=750w" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Ali Alshawaf, a full-time Software developer freelance developer 👨‍💻</div>  
